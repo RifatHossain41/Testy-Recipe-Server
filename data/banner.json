@@ -1,61 +1,67 @@
 [
   {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "_id": "1",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pjMsX-nsV2BovsstTtWM0cBmqW4eDY_Odg&usqp=CAU",
     "name": "John Smith",
     "years_of_experience": 10,
     "num_recipes": 50,
     "likes": 1000,
-    "description": "John Smith is a highly experienced chef who has been working in the food industry for over a decade. He has created over 50 delicious recipes that are loved by thousands of people around the world."
+    "description": "John Smith is a highly experienced chef who has been working in the food industry for over a decade. He has created over 50 delicious recipes that are loved by thousands of people around the world.",
+    "ratings" : 4.5
     },
     
     {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "_id": "2",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1diVZiYpyoOMKcDtDP4B0fZUq213ugPMF3Q&usqp=CAU",
     "name": "Sara Lee",
     "years_of_experience": 5,
     "num_recipes": 30,
     "likes": 500,
-    "description": "Sara Lee is a young and talented chef who has been creating amazing dishes for the past five years. She has already made a name for herself in the food industry with her unique and flavorful recipes."
+    "description": "Sara Lee is a young and talented chef who has been creating amazing dishes for the past five years. She has already made a name for herself in the food industry with her unique and flavorful recipes.",
+    "ratings" : 4.5
     },
     
     {
-    "_id": "f69a695f037cd9484cecaea37ca71011",  
+    "_id": "3",  
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarIRD66X0wOcNkA_oaWSzCB4fdWtU-oHMvw&usqp=CAU",
     "name": "David Chang",
     "years_of_experience": 15,
     "num_recipes": 100,
     "likes": 2000,
-    "description": "David Chang is a world-renowned chef with over 15 years of experience. He has created over 100 innovative recipes that have won numerous awards and accolades. His dishes are loved by food enthusiasts all over the world."
+    "description": "David Chang is a world-renowned chef with over 15 years of experience. He has created over 100 innovative recipes that have won numerous awards and accolades. His dishes are loved by food enthusiasts all over the world.",
+    "ratings" : 4.5
     },
     
     {
-    "_id": "f69a695f037cd9484cecaea37ca71012", 
+    "_id": "4", 
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGKgKzUQGPIa3WqESxjqxXdOTT7Sk2HgoIA&usqp=CAU",
     "name": "Julia Child",
     "years_of_experience": 30,
     "num_recipes": 200,
     "likes": 5000,
-    "description": "Julia Child is a legendary chef who has been cooking for over 30 years. She has created over 200 classic recipes that have become staples in many households. Her recipes are loved for their simplicity and deliciousness."
+    "description": "Julia Child is a legendary chef who has been cooking for over 30 years. She has created over 200 classic recipes that have become staples in many households. Her recipes are loved for their simplicity and deliciousness.",
+    "ratings" : 4.5
     },
     
     {
-    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "_id": "5",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhMy-WaPaIqLujXwaI-jTu1RJ7XrLNPwdxg&usqp=CAU",
     "name": "Gordon Ramsay",
     "years_of_experience": 25,
     "num_recipes": 150,
     "likes": 3000,
-    "description": "Gordon Ramsay is a famous chef with over 25 years of experience. He has created over 150 delicious recipes that have earned him multiple Michelin stars. His dishes are known for their complexity and sophistication."
+    "description": "Gordon Ramsay is a famous chef with over 25 years of experience. He has created over 150 delicious recipes that have earned him multiple Michelin stars. His dishes are known for their complexity and sophistication.",
+    "ratings" : 4.5
     },
     
     {
-    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "_id": "6",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcfrNAeUMPuAFBHG3EoTyqIF0oTBA1NoIbw&usqp=CAU",
     "name": "Ina Garten",
     "years_of_experience": 20,
     "num_recipes": 75,
     "likes": 1500,
-    "description": "Ina Garten is a beloved chef who has been creating delicious recipes for over 20 years. She has written multiple cookbooks and has her own TV show. Her recipes are loved for their simplicity and elegance."
+    "description": "Ina Garten is a beloved chef who has been creating delicious recipes for over 20 years. She has written multiple cookbooks and has her own TV show. Her recipes are loved for their simplicity and elegance.",
+    "ratings" : 4.5
     }
 ]
