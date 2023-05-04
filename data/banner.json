@@ -5,7 +5,8 @@
     "name": "John Smith",
     "years_of_experience": 10,
     "num_recipes": 50,
-    "likes": 1000
+    "likes": 1000,
+    "description": "John Smith is a highly experienced chef who has been working in the food industry for over a decade. He has created over 50 delicious recipes that are loved by thousands of people around the world."
     },
     
     {
@@ -14,7 +15,8 @@
     "name": "Sara Lee",
     "years_of_experience": 5,
     "num_recipes": 30,
-    "likes": 500
+    "likes": 500,
+    "description": "Sara Lee is a young and talented chef who has been creating amazing dishes for the past five years. She has already made a name for herself in the food industry with her unique and flavorful recipes."
     },
     
     {
@@ -23,7 +25,8 @@
     "name": "David Chang",
     "years_of_experience": 15,
     "num_recipes": 100,
-    "likes": 2000
+    "likes": 2000,
+    "description": "David Chang is a world-renowned chef with over 15 years of experience. He has created over 100 innovative recipes that have won numerous awards and accolades. His dishes are loved by food enthusiasts all over the world."
     },
     
     {
@@ -32,7 +35,8 @@
     "name": "Julia Child",
     "years_of_experience": 30,
     "num_recipes": 200,
-    "likes": 5000
+    "likes": 5000,
+    "description": "Julia Child is a legendary chef who has been cooking for over 30 years. She has created over 200 classic recipes that have become staples in many households. Her recipes are loved for their simplicity and deliciousness."
     },
     
     {
@@ -41,7 +45,8 @@
     "name": "Gordon Ramsay",
     "years_of_experience": 25,
     "num_recipes": 150,
-    "likes": 3000
+    "likes": 3000,
+    "description": "Gordon Ramsay is a famous chef with over 25 years of experience. He has created over 150 delicious recipes that have earned him multiple Michelin stars. His dishes are known for their complexity and sophistication."
     },
     
     {
@@ -50,6 +55,7 @@
     "name": "Ina Garten",
     "years_of_experience": 20,
     "num_recipes": 75,
-    "likes": 1500
+    "likes": 1500,
+    "description": "Ina Garten is a beloved chef who has been creating delicious recipes for over 20 years. She has written multiple cookbooks and has her own TV show. Her recipes are loved for their simplicity and elegance."
     }
 ]
