@@ -1,6 +1,6 @@
 [
   {
-    "_id": "1",
+    "id": "1",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pjMsX-nsV2BovsstTtWM0cBmqW4eDY_Odg&usqp=CAU",
     "name": "John Smith",
     "years_of_experience": 10,
@@ -11,7 +11,7 @@
     },
     
     {
-    "_id": "2",
+    "id": "2",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1diVZiYpyoOMKcDtDP4B0fZUq213ugPMF3Q&usqp=CAU",
     "name": "Sara Lee",
     "years_of_experience": 5,
@@ -22,7 +22,7 @@
     },
     
     {
-    "_id": "3",  
+    "id": "3",  
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarIRD66X0wOcNkA_oaWSzCB4fdWtU-oHMvw&usqp=CAU",
     "name": "David Chang",
     "years_of_experience": 15,
@@ -33,7 +33,7 @@
     },
     
     {
-    "_id": "4", 
+    "id": "4", 
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGKgKzUQGPIa3WqESxjqxXdOTT7Sk2HgoIA&usqp=CAU",
     "name": "Julia Child",
     "years_of_experience": 30,
@@ -44,7 +44,7 @@
     },
     
     {
-    "_id": "5",
+    "id": "5",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhMy-WaPaIqLujXwaI-jTu1RJ7XrLNPwdxg&usqp=CAU",
     "name": "Gordon Ramsay",
     "years_of_experience": 25,
@@ -55,7 +55,7 @@
     },
     
     {
-    "_id": "6",
+    "id": "6",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcfrNAeUMPuAFBHG3EoTyqIF0oTBA1NoIbw&usqp=CAU",
     "name": "Ina Garten",
     "years_of_experience": 20,

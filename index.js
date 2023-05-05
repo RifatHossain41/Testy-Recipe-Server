@@ -20,6 +20,13 @@ app.get('/banner', (req, res) => {
   res.send(banner)
 })
 
+app.get('/banner/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedBanner = banner.find(b => b.id === id)
+  res.send(selectedBanner)
+
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
